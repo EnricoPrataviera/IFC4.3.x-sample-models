@@ -27,7 +27,7 @@ reactions.
 Figure 511 — Structural members and reactions
  
 
-The *IfcRelConnectsStructuralElements* relationship links a curve member to a point connection. See Figure 512 for an instantiation diagram.
+The *IfcRelConnectsStructuralMember* relationship links a curve member to a point connection. See Figure 512 for an instantiation diagram.
  
 ![structural_analysis_fig-3.png 48,1 KB](../../figures/examples/structural_analysis_curve-3.png)
 
